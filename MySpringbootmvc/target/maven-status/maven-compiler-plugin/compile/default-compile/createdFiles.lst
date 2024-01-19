@@ -1,0 +1,6 @@
+com\demo\model\Product.class
+com\demo\service\ProductService.class
+com\demo\service\ProductServiceImpl.class
+com\demo\controller\ProductController.class
+com\demo\MySpringBootMVC.class
+com\demo\dao\ProductDao.class
